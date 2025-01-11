@@ -64,7 +64,7 @@ aws configure
 
 3. Clone the Repository:
 ```bash
-git clone <repository-url>
+git clone [repository-url](https://github.com/PeterOyelegbin/weather-dashboard-demo.git)
 cd weather-dashboard-demo
 ```
 
@@ -88,6 +88,7 @@ python src/weather_dashboard.py
 ```
 ![result_terminal](images/result_terminal.png)
 
+7. View data in the S3 Bucket
 ![result_s3](images/result_s3.png)
 
 
